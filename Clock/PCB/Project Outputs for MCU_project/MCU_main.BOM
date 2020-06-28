@@ -1,0 +1,30 @@
+Bill of Material for 
+On 2020/6/28 at 11:04:08
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 6x6x5               TSW DIP-6*6*6    3    SW3, SW4, SW5                直插6x6轻触开关            
+ AMS1117             SOT223_L         1    U1                                                
+ CAP - 无极性           0603            12    C1, C2, C3, C4, C5, C8, C9                        
+                                           C11, C13, C14, CDS, CIR
+ CAP - 有极性           1206(-+)         4    C6, C7, C10, C12                                  
+ CR1220              CR1220-贴片        1    BDS                                               
+ DS1302              DIP-8            1    UDS                                               
+ FUSE                1812             1    F1                                                
+ HEADER_1*2P         HEADER_1*2P      1    JDS                                               
+ LCD5110             LCD5110          1    LCD5110                                           
+ LED绿                0603(+-)         1    D2                                                
+ L磁珠/电感              0603             1    L1                                                
+ Res - SMD           0603            12    R1, R2, R3, R4, R5, R6, R7                        
+                                           R8, R9, R10, RDS, RIR
+ SS14                SMA              1    D1                                                
+ SS8550              SOT23-3N         1    Q1                           高频放大-PNP型            
+ ST-Link             HEADER_1*4P_XH2.54_卧式    1    J1                                                
+ STM8S105C6T6        LQFP48           1    U2                                                
+ Switch - 拨动-三脚两档    Switch - 拨动-三脚两档    1    SW2                                               
+ Switch - 轻触         Switch - 轻触SMD_4Pins    1    SW1                                               
+ TL1838              红外遥控接收头          1    TP                                                
+ USB-5P              USB-MICRO_A      1    USB1                         微型USB母座              
+ 蜂鸣器                 蜂鸣器              1    LS1                                               
+ 石英晶振                XTAL(4.88mm)     1    X1                                                
+ 石英晶振                XTAL(圆柱型2*6mm)    1    XDS                                               

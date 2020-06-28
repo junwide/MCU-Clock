@@ -1,0 +1,261 @@
+Added Component: Designator=BDS(CR1220-贴片)
+Added Component: Designator=C1(0603)
+Added Component: Designator=C2(0603)
+Added Component: Designator=C3(0603)
+Added Component: Designator=C4(0603)
+Added Component: Designator=C5(0603)
+Added Component: Designator=C6(1206(-+))
+Added Component: Designator=C7(1206(-+))
+Added Component: Designator=C8(0603)
+Added Component: Designator=C9(0603)
+Added Component: Designator=C10(1206(-+))
+Added Component: Designator=C11(0603)
+Added Component: Designator=C12(1206(-+))
+Added Component: Designator=C13(0603)
+Added Component: Designator=C14(0603)
+Added Component: Designator=CDS(0603)
+Added Component: Designator=CIR(0603)
+Added Component: Designator=D1(SMA)
+Added Component: Designator=D2(0603(+-))
+Added Component: Designator=F1(1812)
+Added Component: Designator=J1(HEADER_1*4P_XH2.54_卧式)
+Added Component: Designator=JDS(HEADER_1*2P)
+Added Component: Designator=L1(0603)
+Added Component: Designator=LCD5110(LCD5110)
+Added Component: Designator=LS1(蜂鸣器)
+Added Component: Designator=Q1(SOT23-3N)
+Added Component: Designator=R1(0603)
+Added Component: Designator=R2(0603)
+Added Component: Designator=R3(0603)
+Added Component: Designator=R4(0603)
+Added Component: Designator=R5(0603)
+Added Component: Designator=R6(0603)
+Added Component: Designator=R7(0603)
+Added Component: Designator=R8(0603)
+Added Component: Designator=R9(0603)
+Added Component: Designator=R10(0603)
+Added Component: Designator=RDS(0603)
+Added Component: Designator=RIR(0603)
+Added Component: Designator=SW1(Switch - 轻触SMD_4Pins)
+Added Component: Designator=SW2(Switch - 拨动-三脚两档)
+Added Component: Designator=SW3(TSW DIP-6*6*6)
+Added Component: Designator=SW4(TSW DIP-6*6*6)
+Added Component: Designator=SW5(TSW DIP-6*6*6)
+Added Component: Designator=TP(红外遥控接收头)
+Added Component: Designator=U1(SOT223_L)
+Added Component: Designator=U2(LQFP48)
+Added Component: Designator=UDS(DIP-8)
+Added Component: Designator=USB1(USB-MICRO_A)
+Added Component: Designator=X1(XTAL(4.88mm))
+Added Component: Designator=XDS(XTAL(圆柱型2*6mm))
+Added Pin To Net: NetName=GND Pin=BDS-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NRST Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC5_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=3.3V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=3.3V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=3.3V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=3.3V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3.3V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC12_1 Pin=C13-2
+Added Pin To Net: NetName=3.3V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=3.3V Pin=CDS-1
+Added Pin To Net: NetName=GND Pin=CDS-2
+Added Pin To Net: NetName=3.3V Pin=CIR-1
+Added Pin To Net: NetName=GND Pin=CIR-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=3.3V Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetC12_1 Pin=F1-2
+Added Pin To Net: NetName=VCC_USB Pin=J1-1
+Added Pin To Net: NetName=SWIM Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=NRST Pin=J1-4
+Added Pin To Net: NetName=3.3V Pin=L1-1
+Added Pin To Net: NetName=NetC5_1 Pin=L1-2
+Added Pin To Net: NetName=3.3V Pin=LCD5110-6
+Added Pin To Net: NetName=3.3V Pin=LCD5110-7
+Added Pin To Net: NetName=GND Pin=LCD5110-8
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=3.3V Pin=Q1-2
+Added Pin To Net: NetName=NetLS1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC3_2 Pin=R1-1
+Added Pin To Net: NetName=NetC2_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Pin To Net: NetName=3.3V Pin=R4-1
+Added Pin To Net: NetName=NetD2_1 Pin=R4-2
+Added Pin To Net: NetName=BEEP Pin=R5-1
+Added Pin To Net: NetName=NetLS1_1 Pin=R5-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R6-1
+Added Pin To Net: NetName=3.3V Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetLS1_2 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=RDS-2
+Added Pin To Net: NetName=3.3V Pin=RIR-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=NRST Pin=SW1-2
+Added Pin To Net: NetName=VCC_USB Pin=SW2-1
+Added Pin To Net: NetName=NetF1_1 Pin=SW2-2
+Added Pin To Net: NetName=PA3 Pin=SW3-1
+Added Pin To Net: NetName=NetR8_2 Pin=SW3-2
+Added Pin To Net: NetName=PA4 Pin=SW4-1
+Added Pin To Net: NetName=NetR9_1 Pin=SW4-2
+Added Pin To Net: NetName=PA5 Pin=SW5-1
+Added Pin To Net: NetName=NetR10_1 Pin=SW5-2
+Added Pin To Net: NetName=GND Pin=TP-2
+Added Pin To Net: NetName=3.3V Pin=TP-3
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3.3V Pin=U1-2
+Added Pin To Net: NetName=NetC12_1 Pin=U1-3
+Added Pin To Net: NetName=NRST Pin=U2-1
+Added Pin To Net: NetName=NetC2_2 Pin=U2-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=NetC4_2 Pin=U2-6
+Added Pin To Net: NetName=3.3V Pin=U2-7
+Added Pin To Net: NetName=3.3V Pin=U2-8
+Added Pin To Net: NetName=PA3 Pin=U2-9
+Added Pin To Net: NetName=PA4 Pin=U2-10
+Added Pin To Net: NetName=PA5 Pin=U2-11
+Added Pin To Net: NetName=NetC5_1 Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=3.3V Pin=U2-32
+Added Pin To Net: NetName=NetR3_1 Pin=U2-38
+Added Pin To Net: NetName=NetR2_1 Pin=U2-39
+Added Pin To Net: NetName=SWIM Pin=U2-42
+Added Pin To Net: NetName=BEEP Pin=U2-45
+Added Pin To Net: NetName=3.3V Pin=UDS-1
+Added Pin To Net: NetName=GND Pin=UDS-4
+Added Pin To Net: NetName=VCC_USB Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=NetC3_2 Pin=X1-1
+Added Pin To Net: NetName=NetC2_2 Pin=X1-2
+Added Pin To Net: NetName=INFR Pin=RIR-2
+Added Pin To Net: NetName=INFR Pin=TP-1
+Added Pin To Net: NetName=INFR Pin=U2-26
+Added Net: Name=INFR
+Added Pin To Net: NetName=LCD-D0 Pin=LCD5110-4
+Added Pin To Net: NetName=LCD-D0 Pin=U2-22
+Added Net: Name=LCD-D0
+Added Pin To Net: NetName=LCD-D1 Pin=LCD5110-5
+Added Pin To Net: NetName=LCD-D1 Pin=U2-21
+Added Net: Name=LCD-D1
+Added Pin To Net: NetName=LCD-EN Pin=LCD5110-3
+Added Pin To Net: NetName=LCD-EN Pin=U2-27
+Added Net: Name=LCD-EN
+Added Pin To Net: NetName=LCD-R/W Pin=LCD5110-2
+Added Pin To Net: NetName=LCD-R/W Pin=U2-36
+Added Net: Name=LCD-R/W
+Added Pin To Net: NetName=LCD-RS Pin=LCD5110-1
+Added Pin To Net: NetName=LCD-RS Pin=U2-41
+Added Net: Name=LCD-RS
+Added Pin To Net: NetName=NetBDS_1 Pin=BDS-1
+Added Pin To Net: NetName=NetBDS_1 Pin=JDS-2
+Added Net: Name=NetBDS_1
+Added Pin To Net: NetName=NetJDS_1 Pin=JDS-1
+Added Pin To Net: NetName=NetJDS_1 Pin=UDS-8
+Added Net: Name=NetJDS_1
+Added Pin To Net: NetName=NetUDS_2 Pin=UDS-2
+Added Pin To Net: NetName=NetUDS_2 Pin=XDS-1
+Added Net: Name=NetUDS_2
+Added Pin To Net: NetName=NetUDS_3 Pin=UDS-3
+Added Pin To Net: NetName=NetUDS_3 Pin=XDS-2
+Added Net: Name=NetUDS_3
+Added Pin To Net: NetName=RTC-CLK Pin=U2-43
+Added Pin To Net: NetName=RTC-CLK Pin=UDS-7
+Added Net: Name=RTC-CLK
+Added Pin To Net: NetName=RTC-I/O Pin=U2-44
+Added Pin To Net: NetName=RTC-I/O Pin=UDS-6
+Added Net: Name=RTC-I/O
+Added Pin To Net: NetName=RTC-RST Pin=RDS-1
+Added Pin To Net: NetName=RTC-RST Pin=U2-48
+Added Pin To Net: NetName=RTC-RST Pin=UDS-5
+Added Net: Name=RTC-RST
+Added Member To Class: ClassName=MCU_main Member=Component BDS CR1220
+Added Member To Class: ClassName=MCU_main Member=Component C1 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component C2 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component C3 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component C4 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component C5 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component C6 CAP - 有极性
+Added Member To Class: ClassName=MCU_main Member=Component C7 CAP - 有极性
+Added Member To Class: ClassName=MCU_main Member=Component C8 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component C9 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component C10 CAP - 有极性
+Added Member To Class: ClassName=MCU_main Member=Component C11 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component C12 CAP - 有极性
+Added Member To Class: ClassName=MCU_main Member=Component C13 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component C14 CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component CDS CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component CIR CAP - 无极性
+Added Member To Class: ClassName=MCU_main Member=Component D1 SS14
+Added Member To Class: ClassName=MCU_main Member=Component D2 LED绿
+Added Member To Class: ClassName=MCU_main Member=Component F1 FUSE
+Added Member To Class: ClassName=MCU_main Member=Component J1 ST-Link
+Added Member To Class: ClassName=MCU_main Member=Component JDS HEADER_1*2P
+Added Member To Class: ClassName=MCU_main Member=Component L1 L磁珠/电感
+Added Member To Class: ClassName=MCU_main Member=Component LCD5110
+Added Member To Class: ClassName=MCU_main Member=Component LS1 蜂鸣器
+Added Member To Class: ClassName=MCU_main Member=Component Q1 SS8550
+Added Member To Class: ClassName=MCU_main Member=Component R1 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component R2 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component R3 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component R4 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component R5 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component R6 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component R7 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component R8 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component R9 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component R10 Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component RDS Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component RIR Res - SMD
+Added Member To Class: ClassName=MCU_main Member=Component SW1 Switch - 轻触
+Added Member To Class: ClassName=MCU_main Member=Component SW2 Switch - 拨动-三脚两档
+Added Member To Class: ClassName=MCU_main Member=Component SW3 6x6x5
+Added Member To Class: ClassName=MCU_main Member=Component SW4 6x6x5
+Added Member To Class: ClassName=MCU_main Member=Component SW5 6x6x5
+Added Member To Class: ClassName=MCU_main Member=Component TP TL1838
+Added Member To Class: ClassName=MCU_main Member=Component U1 AMS1117
+Added Member To Class: ClassName=MCU_main Member=Component U2 STM8S105C6T6
+Added Member To Class: ClassName=MCU_main Member=Component UDS DS1302
+Added Member To Class: ClassName=MCU_main Member=Component USB1 USB-5P
+Added Member To Class: ClassName=MCU_main Member=Component X1 石英晶振
+Added Member To Class: ClassName=MCU_main Member=Component XDS 石英晶振
+Added Room: Name=MCU_main
